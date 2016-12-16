@@ -1,0 +1,426 @@
+    1  ls -l
+    2  lsa -al
+    3  ls -al
+    4  cd d:
+    5  d:
+    6  cd d:ls -l
+    7  pwd
+    8  ls -l,
+    9  ls -l
+   10  cd 我的空间/
+   11  pwd
+   12  ls -l
+   13  cd 06公共源码/
+   14  ls -l
+   15  cd git_key/
+   16  ls -l
+   17  ls -la
+   18  ls -la
+   19  pwd
+   20  ls -l
+   21  cd ..
+   22  ls -l
+   23  pwd
+   24  pwd
+   25  cd git_key/
+   26  ls 
+   27  git config --global user.name "herbert"
+   28  git config --global user.email "herbert_git@163.com"
+   29  pwd
+   30  cd ..
+   31  ls
+   32  mkdir work
+   33  cd work
+   34  pwd
+   35  git clone git@github.com:aijiajia/million-eyes.git
+   36  pwd
+   37  cd ..
+   38  pwd
+   39  ls -l
+   40  cd git_key/
+   41  ls -l
+   42  mkdir mowrk
+   43  mkdir work
+   44  pwd
+   45  ls -l
+   46  rm -rf mowrk/
+   47  ls -al
+   48  git clone git@github.com:aijiajia/million-eyes.git
+   49  cd ~
+   50  pwd
+   51  ls -l
+   52  cd d:\我的空间
+   53  cd 06公共源码/
+   54  ls -l
+   55  cd work
+   56  ls
+   57  cd ..
+   58  ls -l
+   59  rm -rf work
+   60  mkdir .ssh
+   61  ls -al
+   62  mv git_key/* .ssh/
+   63  ll -l
+   64  ls -al
+   65  cd .ssh
+   66  ls -l
+   67  cd ..
+   68  cd .ssh
+   69  ls
+   70  pwd
+   71  ls -l
+   72  rm -rf work
+   73  cd ..
+   74  ls
+   75  cd git
+   76  cd git_key/
+   77  ls
+   78  cd ..
+   79  rm -rf git_key/
+   80  ls
+   81  ls -al
+   82  mkdir work
+   83  git clone git@github.com:aijiajia/million-eyes.git
+   84  pwd
+   85  ls -al
+   86  pwd
+   87  ls -al
+   88  cd .ssh
+   89  git clone git@github.com:aijiajia/million-eyes.git
+   90  set encoding=utf-8
+   91  set encoding=utf-8
+   92  fileencoding=utf-8
+   93  fileencodings=ucs-bom,utf-8,chinese
+   94  ll
+   95  cd ..
+   96  ls
+   97  pwd
+   98  ls
+   99  ls -al
+  100  mv .ssh ~/
+  101  mv -R .ssh ~/
+  102  mv --help
+  103  pwd
+  104  ll
+  105  cd work
+  106  git clone git@github.com:aijiajia/million-eyes.git
+  107  ls -al
+  108  cd million-eyes/
+  109  ls -al
+  110  ls -l
+  111  cat README.md 
+  112  EXIT
+  113  eixt
+  114  exit
+  115  pwd
+  116  cd d:\我的空间
+  117  ls -l
+  118  cd 06公共源码/
+  119  ls -l
+  120  cd work
+  121  ls -l
+  122  ls -la
+  123  ls -l
+  124  pwd
+  125  pwd
+  126  pwd
+  127  vi ~/.config
+  128  cat ~/.gitconfig
+  129  vi ~/.gitconfig
+  130  ll
+  131  pwd
+  132  pwd
+  133  ll
+  134  pwd
+  135  cd d:\我的空间ls -l
+  136  cd d:\我的空间
+  137  ls -l
+  138  cd 04lab/
+  139  ls -l
+  140  pwd
+  141  ls -l
+  142  echo 2016-1938
+  143  echo a=2016-1938
+  144   a=2016-1938
+  145  echo a
+  146  export a=2016-1938
+  147  echo a
+  148  cd d:pwd
+  149  d:
+  150  pwd
+  151  cd d:\我的空间
+  152  PWD
+  153  LS
+  154  cd 04lab/
+  155  cd neno/
+  156  ls -l
+  157  ls -l
+  158  exit
+  159  ls -l
+  160  pwd
+  161  cd d:
+  162  cd d:pwd
+  163  pwd
+  164  ls -l
+  165  curl -version
+  166  curl --version
+  167  cd C:\Program Files (x86)\Vim\vimfiles\bundle
+  168  pwd
+  169  cd C:\Program Files (x86)\Vim\vimfiles\bundle
+  170  cd 'C:\Program Files (x86)\Vim\vimfiles\bundle'
+  171  pwd
+  172  ll
+  173  ls -l
+  174  git clone https://github.com/VundleVim/Vundle.vim.git
+  175  git init
+  176  cd 'C:\Program Files (x86)\Vim\vimfiles'
+  177  git clone https://github.com/VundleVim/Vundle.vim.git
+  178  ls -l
+  179  cd bundle/
+  180  git clone https://github.com/VundleVim/Vundle.vim.git
+  181  ll
+  182  wpd
+  183  pwd
+  184  echo $VIM
+  185  cd d:
+  186  cd Vim
+  187  ls
+  188  ls -l
+  189  cd vim
+  190  cd ..
+  191  cd vimf
+  192  ls -l
+  193  cd d:Vim/
+  194  ls
+  195  cd vimfiles/
+  196  ls
+  197  ls -l
+  198  cd d:ls -l
+  199  pwd
+  200  ls -l
+  201  cd d:ls -l
+  202  d:ls -l
+  203  cd d:\vim
+  204  ls
+  205  cd vimfiles/
+  206  ls
+  207  cd bundle/
+  208  git clone https://github.com/VundleVim/Vundle.vim.git
+  209  cd ..
+  210  ls -l
+  211  cd colors/
+  212  ls -l
+  213  cd ..
+  214  ls
+  215  cd ..
+  216  ls -l
+  217  cd vim74/
+  218  ls
+  219  ls -l
+  220  cd cor
+  221  pwd
+  222  ls -l
+  223  cd colors
+  224  ls
+  225  ll
+  226  pwd
+  227  cd ~
+  228  cd .ssh
+  229  ls -l
+  230  cd 
+  231  cd D:\我的空间\06公共源码\work\million-eyes
+  232  pwd
+  233  d:
+  234  cd d:\
+  235  pwd
+  236  cd 
+  237  cd 
+  238  cd 
+  239  pwd
+  240  pwd
+  241  ll
+  242  ls -l
+  243  cd e:/
+  244  pwd
+  245  ls
+  246  cd d:/
+  247  pwd
+  248  ls -l
+  249  cd 我的空间\06公共源码\work\million-eyes
+  250  pwd
+  251  cd 我的空间\06公共源码\workpwd
+  252  cd 我的空间\06公共源码\work
+  253  pwd
+  254  cd "D:\我的空间\06公共源码\work\million-eyes"
+  255  pwd
+  256  ls -l
+  257  git putsh
+  258  git diff
+  259  git add pom.xml
+  260  ls -l
+  261  git commit -m "pom"
+  262  git push
+  263  git pull
+  264  git push
+  265  pwd
+  266  git --version
+  267  which git
+  268  which git
+  269  ls -l
+  270  pwd
+  271  ls -al
+  272  echo "# java_study_git_idea" >> README.md
+  273  git init
+  274  git add README.md
+  275  git commit -m "first commit"
+  276  git remote add origin git@github.com:aijiajia/java_study_git_idea.git
+  277  git push -u origin master
+  278  pwd
+  279  git remote add origin git@github.com:aijiajia/java_study_git_idea.git
+  280  git push -u origin master
+  281  touch README
+  282  git add README 
+  283  git commit -m 'first commit'
+  284  git push origin master
+  285  git push -u origin master
+  286  git pull
+  287  git push -u origin master
+  288  git pull
+  289  git merge
+  290  git remote add origin git@github.com:aijiajia/java_study_git_idea.git
+  291  git branch -a
+  292  git pull
+  293  git pull orgin master
+  294  git pull origin master
+  295  pwd
+  296  ls -l
+  297  rm -rf README
+  298  git add
+  299  git commit
+  300  git push -u origin master
+  301  git push -u origin master
+  302  ls -l
+  303  git add *
+  304  git add src/
+  305  git commit
+  306  git add pom.xml 
+  307  git add README.md 
+  308  git commit
+  309  git push -u origin master
+  310  git diff
+  311  ls -al
+  312  git add idea_git_third.iml 
+  313  git commit
+  314  git -u origin master
+  315  git push -u origin master
+  316  git diff
+  317  git commit
+  318  ls -al
+  319  git add .idea
+  320  git add \.idea
+  321  git commit
+  322  git diff
+  323  ls -al
+  324  git remote
+  325  git remote -v
+  326  git fetch
+  327  git diff
+  328  git -u push origin master
+  329  git push -u  origin master
+  330  git diff
+  331  git diff head
+  332  git diff head
+  333  pwd
+  334  ls -l
+  335  git remote show origin
+  336  pwd
+  337  ls -l
+  338  exit
+  339  git remote
+  340  git remote
+  341  git diff
+  342  git diff -head
+  343  git diff head
+  344  ls -al
+  345  cd .git
+  346  ls
+  347  ls -l
+  348  vim config
+  349  git remote show all
+  350  git remote show -a
+  351  git remote show
+  352  git remote show -a
+  353  git remote -v
+  354  git diff
+  355  pwd
+  356  cd ..
+  357  ls
+  358  git diff
+  359  git diff head
+  360  git commit
+  361  git push -u origin master
+  362  git diff head
+  363  ls -l
+  364  ls -al
+  365  git add '.idea'
+  366  ls -al
+  367  git add  -f  *
+  368  git commit
+  369  git push -u origin master
+  370  git push -u origin master
+  371  pwd
+  372  git diff head
+  373  git push
+  374  git push -u origin master
+  375  git branch
+  376  git status
+  377  git commit -m ",mm"
+  378  rm -rf .git
+  379  git config --global core.autocrlf false
+  380  git init
+  381  git commit -m "mmm"
+  382  git remote -v
+  383  git remote add origin git@github.com:aijiajia/java_study_git_idea.git
+  384  git push
+  385  git push -u origin master
+  386  git pull
+  387  git push -u origin master
+  388  git fetch
+  389  git diff head
+  390  git diff -head
+  391  git -diff head
+  392  git merge
+  393  git branch
+  394  git checkout master
+  395  ls -l
+  396  rm -rf README.md 
+  397  git checkout master
+  398  git fetch
+  399  git merge
+  400  git diff head
+  401  ls -l
+  402  git push -u origin master
+  403  git diff head
+  404  git diff
+  405  git push -u origin master
+  406  git remote -v
+  407  git remote
+  408  git branch
+  409  git push origin master
+  410  git pull origin master
+  411  git push origin master
+  412  ls -l
+  413  git diff
+  414  git add -f *
+  415  git commit -m "m1"
+  416  git push -u origin master
+  417  git diff
+  418  git diff head
+  419  git status
+  420  git add .idea
+  421  git commit -m "idea"
+  422  git push
+  423  git diff
+  424  git status
+  425  history
+  426  history > history.txt
